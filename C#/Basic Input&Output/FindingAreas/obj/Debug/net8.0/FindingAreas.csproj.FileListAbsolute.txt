@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\bin\Debug\net8.0\FindingAreas.exe
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\bin\Debug\net8.0\FindingAreas.deps.json
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\bin\Debug\net8.0\FindingAreas.runtimeconfig.json
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\bin\Debug\net8.0\FindingAreas.dll
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\bin\Debug\net8.0\FindingAreas.pdb
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\obj\Debug\net8.0\FindingAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\obj\Debug\net8.0\FindingAreas.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\obj\Debug\net8.0\FindingAreas.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\obj\Debug\net8.0\FindingAreas.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\obj\Debug\net8.0\FindingAreas.dll
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\obj\Debug\net8.0\refint\FindingAreas.dll
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\obj\Debug\net8.0\FindingAreas.pdb
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\obj\Debug\net8.0\FindingAreas.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Documents\Coding\C#\Basic Input&Output\FindingAreas\obj\Debug\net8.0\ref\FindingAreas.dll
